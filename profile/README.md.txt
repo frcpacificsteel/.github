@@ -1,0 +1,2 @@
+# Abput us
+We are Pacific Steel 5025, a FRC robotics team from Cathedral Catholic High School, in San Diego, CA, comprised of driven individuals that pursue excellence in STEM fields and beyond. Robotics gives us the opportunity to express our passion for creativity, our drive for success, and our hunger to learn. Through each challenge, we grow more as students, as friends, and as a team. 
