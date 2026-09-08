@@ -24,7 +24,7 @@
 
 ## Suggested labels
 
-Create these once in each repository using GitHub's Labels settings. GitHub issue forms apply the names exactly.
+Create these in this `.github` repository and in each repository that uses the forms, using GitHub's Labels settings. GitHub issue forms apply the names exactly.
 
 | Group | Labels |
 | --- | --- |
